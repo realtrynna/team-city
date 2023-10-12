@@ -1,1 +1,1 @@
-# team-city
+# TeamCity
